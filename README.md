@@ -6,6 +6,15 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/minju0611"
+  width="600"
+  height="300"
+/>
+</a>
+
 <!---
 minju0611/minju0611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
