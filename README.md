@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @minju0611
-- 👀 I’m interested in game.
+- 👀 I’m interested in AI.
 - 🌱 I’m currently learning
 - This is my Blog link. --> <a href="https://minju0611.github.io/"></a>
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 
 <a href="https://github.com/devxb/gitanimals">
 <img
